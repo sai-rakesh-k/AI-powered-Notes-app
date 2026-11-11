@@ -214,14 +214,6 @@ The app includes a clean dashboard with:
 - For production deployment, use environment variables securely and configure a production MongoDB database.
 - You may want to add a reverse proxy, HTTPS, and deployment-specific security review before publishing.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Author
-
-Built as a full-stack MERN app with AI note summarization features.
-
 ## Contributing
 
 Contributions are welcome. If you want to improve the app, feel free to open an issue or submit a pull request.
